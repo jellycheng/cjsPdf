@@ -1,0 +1,6 @@
+/src/db/import.db
+.idea/
+.env
+vendor
+.DS_Store
+composer.lock
